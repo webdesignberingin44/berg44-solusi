@@ -3,6 +3,7 @@ RENCANA KONTEN BERG44
 - Javascript
   * ES6
   * Framework Javascript
+- Struktur Data Dasar
 - PHP Frameworks
 - Interview
 - vlogs
